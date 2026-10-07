@@ -14,12 +14,6 @@ El objetivo es entender qué factores influyen en el abandono y el éxito acadé
 | **rendimiento_estudiantes.csv** | Dataset utilizado en los notebooks. Deben estar en la ruta indicada en el código |
 | **Proyecto_Final_Angela_Porres.pdf** | Informe completo con la explicación detallada de la metodología, resultados y conclusiones |
 
-Requisitos
-
-    - Se recomienda usar Python 3.9 o superior.
-    - Instalar las librerías necesarias con:
-        pip install numpy pandas scikit-learn matplotlib seaborn
-
 ## Instalación y Uso
 
 1. **Clonar o descargar el repositorio**

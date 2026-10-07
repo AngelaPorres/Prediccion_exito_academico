@@ -1,4 +1,4 @@
-Proyecto Final: Predicción del éxito académico en educación superior
+# Predicción del Éxito Académico
 
 Este proyecto analiza el rendimiento académico de estudiantes de educación superior utilizando técnicas de Machine Learning supervisado y no supervisado. Se abordan tres tareas principales: clasificación, regresión y clustering.
 
